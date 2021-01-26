@@ -1,6 +1,6 @@
 ### Hi there, I'm Gosia 👋
 
-I'm currently learning front-end at InfoShare Academy.
+I'm currently taking the Front-end Developer Course and looking to develop my skills further in this field.
 
 #### Languages and Tools
 
