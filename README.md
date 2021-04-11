@@ -1,6 +1,6 @@
 ### Hi there, I'm Małgorzata (aka Gosia) 👋
 
-I'm currently taking the Front-end Developer Course and looking to develop new skills further in this field.
+I've recently completed a Front-end Developer Course and I'm looking to develop new skills further in this field.
 
 #### ⚡ Fun fact:
 
