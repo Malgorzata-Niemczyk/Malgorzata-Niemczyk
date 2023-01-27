@@ -1,6 +1,6 @@
 ### Hi there, I'm Małgorzata (aka Gosia) 👋
 
-I'm interested in the frontend development field.
+I'm interested in frontend development and technical writing.
 
 #### ⚡ Fun fact:
 
